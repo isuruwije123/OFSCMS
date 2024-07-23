@@ -1,0 +1,84 @@
+
+        Supplier Details:
+        
+          Product Name: 654654
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x1F0869294c81381B4D9c1d7E04fddB3b7A0Ad5e9
+          Fertilizer Name: qwe
+          Category: qwe
+          Developed Country: qwe
+          Stored Temperature: qwe
+          Seed Name: qwe
+          Seed Type: qwe
+          Seed Stored Temperature: qwe
+          Special Note: qwe
+          Timestamp: 7/7/2024, 5:19:29 pm
+        
+
+          Product Name: 654654
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x1F0869294c81381B4D9c1d7E04fddB3b7A0Ad5e9
+          Fertilizer Name: qweqwe
+          Category: qweqwe
+          Developed Country: qweqweq
+          Stored Temperature: weqwe
+          Seed Name: qweqweqwe
+          Seed Type: qweqweqw
+          Seed Stored Temperature: eqweqwe
+          Special Note: qweqweqweq
+          Timestamp: 14/7/2024, 12:47:03 pm
+        
+        Farmer Details:
+        
+          Product Name: 654654
+          Receiver Name: asdasd
+          Receiver Address: 0xc6924E281D8BCE84EedD9e027840BcDDB4425601
+          Farm Location: qeqwe
+          Crop Type: qweqwe
+          Harvest Date: qweqweqwe
+          Special Note: qweqweqwe
+          Timestamp: 7/7/2024, 6:45:28 pm
+        
+        Distributer Details:
+        
+          Product Name: 654654
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x03D25A49ff472f8be29f95272eC3ABeA44433B8D
+          Distribution Center: qweqwe
+          Transportation Mode: qweqweqwe
+          Distribution Date: qweqweqwe
+          Special Note: qweqweqweqweqwe
+          Timestamp: 7/7/2024, 6:59:59 pm
+        
+
+          Product Name: 654654
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x03D25A49ff472f8be29f95272eC3ABeA44433B8D
+          Distribution Center: wqeqweqweqwe
+          Transportation Mode: qweqweqweqwe
+          Distribution Date: weqweqweqwe
+          Special Note: qweqweqweqweqweqwe
+          Timestamp: 8/7/2024, 11:41:23 am
+        
+        Retailer Details:
+        
+          Product Name: 654654
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x03D25A49ff472f8be29f95272eC3ABeA44433B8D
+          Retail Store: 123123
+          Shelf Life: wqeqwe
+          Received Date: 123123123
+          Special Note: 123123123
+          Timestamp: 14/7/2024, 12:43:00 pm
+        
+
+          Product Name: 654654
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x03D25A49ff472f8be29f95272eC3ABeA44433B8D
+          Retail Store: fdgdfgdd
+          Shelf Life: fgdfgdfgd
+          Received Date: fgdfgdfg
+          Special Note: dfgdfgdf
+          Timestamp: 14/7/2024, 12:46:44 pm
+        
+      

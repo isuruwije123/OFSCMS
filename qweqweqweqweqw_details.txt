@@ -1,0 +1,50 @@
+
+        Supplier Details:
+        
+          Product Name: qweqweqweqweqw
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x1F0869294c81381B4D9c1d7E04fddB3b7A0Ad5e9
+          Fertilizer Name: 123
+          Category: 123
+          Developed Country: 123
+          Stored Temperature: 123
+          Seed Name: 123
+          Seed Type: 123
+          Seed Stored Temperature: 123
+          Special Note: 123
+          Timestamp: 23/7/2024, 9:57:32 am
+        
+        Farmer Details:
+        
+          Product Name: qweqweqweqweqw
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0xc6924E281D8BCE84EedD9e027840BcDDB4425601
+          Farm Location: 213
+          Crop Type: 213
+          Harvest Date: 123
+          Special Note: 123
+          Timestamp: 23/7/2024, 9:58:14 am
+        
+        Distributer Details:
+        
+          Product Name: qweqweqweqweqw
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x03D25A49ff472f8be29f95272eC3ABeA44433B8D
+          Distribution Center: 123
+          Transportation Mode: 123
+          Distribution Date: 123
+          Special Note: 123
+          Timestamp: 23/7/2024, 9:59:00 am
+        
+        Retailer Details:
+        
+          Product Name: qweqweqweqweqw
+          Receiver Name: jmiwijesooriya
+          Receiver Address: 0x03D25A49ff472f8be29f95272eC3ABeA44433B8D
+          Retail Store: 123
+          Shelf Life: 123
+          Received Date: 123
+          Special Note: 123
+          Timestamp: 23/7/2024, 9:59:27 am
+        
+      

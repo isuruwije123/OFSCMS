@@ -1,0 +1,54 @@
+
+        Supplier Details:
+        
+          Product Name: Carrot
+          Receiver Name: farmer
+          Receiver Address: 0x0a808faA30fE172c580d241Ac4800955d7712423
+          Fertilizer Name: N123
+          Category: Organic
+          Developed Country: Germany
+          Stored Temperature: 25
+          Seed Name: Carrot
+          Seed Type: Organic
+          Seed Stored Temperature: 25
+          Special Note: Nothing
+          Timestamp: 30/7/2024, 8:01:08 pm
+          Supplier Name: farmer
+        
+        Farmer Details:
+        
+          Product Name: Carrot
+          Receiver Name: Distributer
+          Receiver Address: 0xc05886CB69D927B63193abC6D56380B244E2BC86
+          Farm Location: Anuraddhapura
+          Crop Type: 
+          Harvest Date: 2024-07-30
+          Special Note: Nothing
+          Timestamp: 30/7/2024, 8:02:48 pm
+          Farmer Name: Distributer
+        
+        Distributer Details:
+        
+          Product Name: Carrot
+          Receiver Name: Retailer
+          Receiver Address: 0xd0252b2dB984f9e5f74232C0af0C45d22B768D33
+          Distribution Center: Kurunegala
+          Transportation Mode: Lorry -AC
+          Distribution Date: 2024-07-30
+          Special Note: Nothing
+          Timestamp: 30/7/2024, 8:04:47 pm
+          Distributer Name: Retailer
+        
+        Retailer Details:
+        
+          Product Name: Carrot
+          Receiver Name: Distributer
+          Receiver Address: 0xd0252b2dB984f9e5f74232C0af0C45d22B768D33
+          Retail Store: Gmpaha keels
+          Shelf Life: 20 Days
+          Received Date: 2024-07-30
+          Special Note: Nothing
+          Timestamp: 30/7/2024, 8:05:39 pm
+          Retailer Name: Retailer
+        
+      

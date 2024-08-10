@@ -1,0 +1,50 @@
+
+        Supplier Details:
+        
+          Supplier Name: Farmer Name
+          Product Name: Carrot
+          Farmer Name: Farmer Name
+          Fertilizer Name: Fertilizer Name
+          Category: Fertilizer category
+          Developed Country: Fertilizer country
+          Stored Temperature: Fertilizer stored temp
+          Seed Name: Seed Name
+          Seed Type: Seed type
+          Seed Stored Temperature: Seed stored temp
+          Special Note: Any Special Note
+          Timestamp: 10/8/2024, 1:44:52 pm
+        
+        Farmer Details:
+        
+          Farmer Name: Distributer Name
+          Product Name: Carrot
+          Distributer Name: Distributer Name
+          Farm Location: Farm Location
+          Crop Type: Crop Type
+          Harvest Date: 2024-08-10
+          Special Note: Any Special Note
+          Timestamp: 10/8/2024, 1:46:09 pm
+        
+        Distributer Details:
+        
+          Distributer Name: Retailer Name
+          Product Name: Carrot
+          Retailer Name: Retailer Name
+          Distribution Center: Distribution Center
+          Transportation Mode: Mode Of Transportation
+          Distribution Date: 2024-08-10
+          Special Note: Any Special Notes
+          Timestamp: 10/8/2024, 1:47:09 pm
+        
+        Retailer Details:
+        
+          Retailer Name: Distributer Name
+          Product Name: Carrot
+          Retail Store: Retail store Name
+          Shelf Life: Shell Life
+          Received Date: 2024-08-10
+          Special Note: Any Special Notes
+          Timestamp: 10/8/2024, 1:50:58 pm
+          Retailer Name: Retailer Name
+        
+      

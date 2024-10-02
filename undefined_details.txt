@@ -1,0 +1,14 @@
+
+        Supplier Details:
+        undefined
+        
+        Farmer Details:
+        undefined
+        
+        Distributer Details:
+        undefined
+        
+        Retailer Details:
+        undefined
+        
+      
